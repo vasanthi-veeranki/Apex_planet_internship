@@ -19,11 +19,3 @@
 * Removed duplicate records
 * Performed statistical analysis
 * Saved cleaned dataset
-
-### Repository Structure
-
-* data/
-* notebooks/
-* scripts/
-* reports/
-* dashboards/
