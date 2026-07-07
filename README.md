@@ -1,22 +1,8 @@
-# Apex_planet_internship
+Apex Planet Data Analytics Internship
 
-# ApexPlanet Data Analytics Internship
+Intern Name: Vasanthi Veeranki
+Internship ID: APPL2640930
+Domain: Data Analytics
+Duration: 1 July 2026 – 30 July 2026
 
-## Task 1: Exploratory Data Analysis (EDA)
-
-### Tools Used
-
-* Python
-* Jupyter Notebook
-* Pandas
-* NumPy
-* Matplotlib
-
-### Tasks Completed
-
-* Imported dataset
-* Checked missing values
-* Removed duplicate records
-* Performed statistical analysis
-* Saved cleaned dataset
-[cleaned_superstore.csv](https://github.com/user-attachments/files/29606623/cleaned_superstore.csv)
+This repository contains the work completed as part of my Data Analytics Internship at Apex Planet. It includes the implementation of internship tasks using Python and Jupyter Notebook. The project demonstrates data cleaning, preprocessing, and exploratory data analysis on real-world datasets.
